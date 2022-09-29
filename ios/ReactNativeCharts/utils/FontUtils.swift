@@ -8,6 +8,7 @@
 
 import Foundation
 import SwiftyJSON
+import React
 
 class FontUtils {
   static func getFont(_ json: JSON) -> UIFont? {    
